@@ -8,12 +8,17 @@ contributor:
     deathdate: 1959
     gutenberg_agent_id: '37972'
     url: http://www.gutenberg.org/2009/agents/37972
+covers:
+- cover_type: archival
+  image_path: 69064-h/images/cover.jpg
 creator:
   author:
     agent_name: Duggan, Janie Prichard
     gutenberg_agent_id: '55081'
     url: http://www.gutenberg.org/2009/agents/55081
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69064#The-little-acrobat-a-story-of-Italy
 gutenberg_issued: '2022-09-29'
 identifiers:
   gutenberg: '69064'
